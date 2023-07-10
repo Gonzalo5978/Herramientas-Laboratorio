@@ -1,0 +1,5 @@
+Revisor 0.1 (2023 - Jul 10)
+-Revisión dispositivos online
+-Petición de hora a API y filtrado AWK
+-Sacada peticiones curl a variable externa y impresa por echo
+
