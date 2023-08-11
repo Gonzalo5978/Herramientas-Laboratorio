@@ -101,7 +101,7 @@ function revision_errores(){
 
 			echo -e "\n$barrido_nvr1_1\n"
 
-			diff tmp/$dispositivos_nvr1_1.txt tmp/comparer.txt
+			diff --color tmp/$dispositivos_nvr1_1.txt tmp/comparer.txt
 
 		done
 	fi
