@@ -1,0 +1,18 @@
+Modelo:SF-IPD835WA-8P-HV
+Firmware:V5.7.1
+NTP:es.pool.ntp.org
+Intervalo:60
+DNS:8.8.8.8
+DNS:8.8.4.4
+Email:La4567@altateclabs.com
+SMTP:smtp.altateclabs.com
+Puerto:9267
+Soporte:Email Soporte
+Email:soporte@altatec-seguridad.com
+Imagen:true
+Intervalo:2
+Formateo:ok
+Capacidad:60906
+Formato fecha:DD-MM-YYYY
+Estilo fecha:24hour
+Semana:false
