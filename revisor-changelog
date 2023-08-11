@@ -1,5 +1,8 @@
+Revisor 1.0 (2023 - Aug 11)
+-Revisor 0.1 eliminado del repositorio
+-Se sube la nueva versión del revisor
+
 Revisor 0.1 (2023 - Jul 10)
 -Revisión dispositivos online
 -Petición de hora a API y filtrado AWK
 -Sacada peticiones curl a variable externa y impresa por echo
-
