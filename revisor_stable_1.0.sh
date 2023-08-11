@@ -44,7 +44,7 @@ function ayuda(){
 function revision_errores(){
 	toilet Laboratorio -f pagga.tlf --metal
 
-	echo -en "\n${turquesa}[+]${finColor} Introduce el rango de la instalación: " && read rango
+	echo -en "\n${turquesa}[+]${finColor} Introduce el rango de la instalación [192.xxx.xx]: " && read rango
 
 	echo -en "\n${turquesa}[+]${finColor} Introduce el número de cámaras: " && read camaras
 
