@@ -1,8 +1,8 @@
-Revisor 1.0 (2023 - Aug 11)
--Revisor 0.1 eliminado del repositorio
--Se sube la nueva versión del revisor
-
-Revisor 0.1 (2023 - Jul 10)
--Revisión dispositivos online
--Petición de hora a API y filtrado AWK
--Sacada peticiones curl a variable externa y impresa por echo
+Revisor_Stable_1.5.sh (Aug 29 2023)
+-----------------------------------
+-Eliminadas versiones anteriores y subida la nueva versión
+-Versión 1.5 contiene las siguientes funciones:
+  -Modo revisión [-r]: Activa el modo revisión teniendo que introducir los daros de la instalación
+  -Modo revisión anterior [-s]: Vuelva a revisar la instalación revisadad en el paso anterior
+  -Modo revisión complera [-c]: Muestra los datos extraidos de la API en pantalla (No revisa)  [EN DESARROLO]
+-Añadida función para extraer el nombre de la API y mostrarlo durante el barrido de dispositivos
