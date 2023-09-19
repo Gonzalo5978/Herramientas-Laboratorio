@@ -6,3 +6,14 @@ Revisor_Stable_1.5.sh (Aug 29 2023)
   -Modo revisión anterior [-s]: Vuelva a revisar la instalación revisadad en el paso anterior
   -Modo revisión complera [-c]: Muestra los datos extraidos de la API en pantalla (No revisa)  [EN DESARROLO]
 -Añadida función para extraer el nombre de la API y mostrarlo durante el barrido de dispositivos
+
+
+Revisor_Stable_1.6.sh (Aug 2023)
+--------------------------------
+-Incluida llamada de API para extraer información sobre BitRate y Resoluciones
+
+Revisor_Stable_1.7.sh (Sept 19 2023)
+------------------------------------
+-Incluida llamada y output en pantalla de Gateway de las cámaras
+-Añadido apartado de configuración [En Desarrollo]
+
