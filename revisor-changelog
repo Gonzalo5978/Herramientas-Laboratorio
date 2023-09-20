@@ -1,4 +1,4 @@
-Revisor_Stable_1.5.sh (Aug 29 2023)
+Labo_Tool_Stable_1.5.sh (Aug 29 2023)
 -----------------------------------
 -Eliminadas versiones anteriores y subida la nueva versión
 -Versión 1.5 contiene las siguientes funciones:
@@ -8,12 +8,16 @@ Revisor_Stable_1.5.sh (Aug 29 2023)
 -Añadida función para extraer el nombre de la API y mostrarlo durante el barrido de dispositivos
 
 
-Revisor_Stable_1.6.sh (Aug 2023)
+Labo_Tool_Stable_1.6.sh (Aug 2023)
 --------------------------------
 -Incluida llamada de API para extraer información sobre BitRate y Resoluciones
 
-Revisor_Stable_1.7.sh (Sept 19 2023)
+Labo_Tool_Stable_1.7.sh (Sept 19 2023)
 ------------------------------------
 -Incluida llamada y output en pantalla de Gateway de las cámaras
 -Añadido apartado de configuración [En Desarrollo]
 
+Labo_Tool_Stable_1.8.sh (Sept 20 2023)
+-------------------------------------
+-Incluida llamada API de envío de Emails para excepciones de HDD Error y Ilegal Access
+-Incluida función para revisión de un único dispositivo
