@@ -21,3 +21,17 @@ Labo_Tool_Stable_1.8.sh (Sept 20 2023)
 -------------------------------------
 -Incluida llamada API de envío de Emails para excepciones de HDD Error y Ilegal Access
 -Incluida función para revisión de un único dispositivo
+
+Labo_Tool_Stable_1.9.sh (Sept 25 2023)
+--------------------------------------
+-Incluida llamada API faltante en NTP
+-Incluida llamada para envío de emails en "Excepciones"
+-Eliminado "if" para cada NVR
+-Funcionamiento modificado para preguntar Host Inicio y Host Final
+
+Labo.sh Versión 2.0 (Sept 27 2023)
+----------------------------------
+-Reestructuración completa del Script
+-Eliminada función de introducción de argumentos
+-Funcionamiento cambiado a modo de menú seleccionable con números
+-Mejorado tiempo de respuesta un 1850%
