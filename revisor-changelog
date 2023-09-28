@@ -36,3 +36,9 @@ Labo.sh Versión 2.0 (Sept 27 2023)
 -Funcionamiento cambiado a modo de menú seleccionable con números
 -Revisión Individual corregida
 -Mejorado tiempo de respuesta un 1850%
+
+Labo.sh Versión 2.1 (Sept 28 2023)
+----------------------------------
+-Añadido modo Corrector
+-Habilitada función corrección NTP
+-Cambiado formato creando funciones para cada modo
