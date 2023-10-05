@@ -1,0 +1,13 @@
+<NTPServer version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<id>1</id>
+<addressingFormatType>
+hostname
+</addressingFormatType>
+<hostName>es.pool.ntp.org</hostName>
+<ipAddress></ipAddress>
+<ipv6Address></ipv6Address>
+<portNo>123</portNo>
+<synchronizeInterval>
+60
+</synchronizeInterval>
+</NTPServer>
